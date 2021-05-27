@@ -6,4 +6,5 @@ namespace minimax.tictactoe
         Cross,
         Circle
     }
+    
 }
